@@ -23597,9 +23597,9 @@
           "arcs": [[-2024, 2029, 2030, 2031, 2032]],
           "type": "Polygon",
           "properties": {
-            "district": "Kargil",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "004",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "38",
             "year": "2011_c"
           }
@@ -23608,9 +23608,9 @@
           "arcs": [[-2027, 2033, 2034, 2035]],
           "type": "Polygon",
           "properties": {
-            "district": "Kupwara",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "001",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23619,9 +23619,9 @@
           "arcs": [[-2026, 2036, 2037, 2038, -2034]],
           "type": "Polygon",
           "properties": {
-            "district": "Bandipora",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "009",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23630,9 +23630,9 @@
           "arcs": [[-2035, -2039, 2039, 2040, 2041, 2042]],
           "type": "Polygon",
           "properties": {
-            "district": "Baramulla",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "008",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23641,9 +23641,9 @@
           "arcs": [[-2025, -2033, 2043, 2044, -2037]],
           "type": "Polygon",
           "properties": {
-            "district": "Ganderbal",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "011",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23654,9 +23654,9 @@
           ],
           "type": "Polygon",
           "properties": {
-            "district": "Anantnag",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "014",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23665,9 +23665,9 @@
           "arcs": [[-2031, 2054, 2055, 2056, -2046]],
           "type": "Polygon",
           "properties": {
-            "district": "Kishtwar",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "018",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23676,9 +23676,9 @@
           "arcs": [[-2038, -2045, -2054, 2057, 2058, -2040]],
           "type": "Polygon",
           "properties": {
-            "district": "Srinagar",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "010",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23687,9 +23687,9 @@
           "arcs": [[-2041, -2059, 2059, 2060, 2061, 2062]],
           "type": "Polygon",
           "properties": {
-            "district": "Budgam",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "002",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23698,9 +23698,9 @@
           "arcs": [[-2053, 2063, -2060, -2058]],
           "type": "Polygon",
           "properties": {
-            "district": "Pulwama",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "012",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23709,9 +23709,9 @@
           "arcs": [[-2042, -2063, 2064, 2065, 2066, 2067, 2068]],
           "type": "Polygon",
           "properties": {
-            "district": "Punch",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "005",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23720,9 +23720,9 @@
           "arcs": [[-2052, 2069, -2061, -2064]],
           "type": "Polygon",
           "properties": {
-            "district": "Shopiyan",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "013",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23733,9 +23733,9 @@
           ],
           "type": "Polygon",
           "properties": {
-            "district": "Kulgam",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "015",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23744,9 +23744,9 @@
           "arcs": [[-2066, -2074, 2074, 2075, 2076]],
           "type": "Polygon",
           "properties": {
-            "district": "Rajouri",
+            "district": "Jammu & Kashmir",
             "dt_code": "006",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23755,9 +23755,9 @@
           "arcs": [[-2048, 2077, 2078, 2079, -2072]],
           "type": "Polygon",
           "properties": {
-            "district": "Ramban",
+            "district": "Jammu & Kashmir",
             "dt_code": "017",
-            "st_nm": "Rest of North States",
+            "st_nm": "Rest of Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23766,9 +23766,9 @@
           "arcs": [[-2073, -2080, 2080, 2081, -2075]],
           "type": "Polygon",
           "properties": {
-            "district": "Reasi",
+            "district": "Jammu & Kashmir",
             "dt_code": "020",
-            "st_nm": "Rest of North States",
+            "st_nm": "Rest of Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23777,9 +23777,9 @@
           "arcs": [[-2047, -2057, 2082, 2083, 2084, -2078]],
           "type": "Polygon",
           "properties": {
-            "district": "Doda",
+            "district": "Jammu & Kashmir",
             "dt_code": "016",
-            "st_nm": "Rest of North States",
+            "st_nm": "Rest of Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23810,9 +23810,9 @@
           "arcs": [[-2076, -2082, 2093, 2094, 2095, 2096]],
           "type": "Polygon",
           "properties": {
-            "district": "Jammu",
+            "district": "Jammu & Kashmir",
             "dt_code": "021",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -23821,9 +23821,9 @@
           "arcs": [[-2084, -2093, 2097, 2098, 2099, 2100]],
           "type": "Polygon",
           "properties": {
-            "district": "Kathua",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "007",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -24562,9 +24562,9 @@
           "arcs": [[-2079, -2085, -2101, 2306, -2094, -2081]],
           "type": "Polygon",
           "properties": {
-            "district": "Udhampur",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "019",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -24573,9 +24573,9 @@
           "arcs": [[-2095, -2307, -2100, 2307]],
           "type": "Polygon",
           "properties": {
-            "district": "Samba",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "022",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -24719,9 +24719,9 @@
           "arcs": [[-2028, -2036, -2043, -2069, 2312]],
           "type": "Polygon",
           "properties": {
-            "district": "Muzaffarabad",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "992",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -24730,9 +24730,9 @@
           "arcs": [[-2067, -2077, -2097, 2313]],
           "type": "Polygon",
           "properties": {
-            "district": "Mirpur",
+            "district": "Rest of Jammu & Kashmir",
             "dt_code": "991",
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           }
@@ -25170,8 +25170,8 @@
             [2024, 2025, 2026, 2027, 2028, 2022, 2029, 2030, 2031, 2032]
           ],
           "type": "Polygon",
-          "properties": {"st_nm": "Rest of North States", "st_code": "38", "year": "2011_c"},
-          "id": "Rest of North States"
+          "properties": {"st_nm": "Jammu & Kashmir", "st_code": "38", "year": "2011_c"},
+          "id": "Jammu & Kashmir"
         },
         {
           "arcs": [
@@ -25182,11 +25182,11 @@
           ],
           "type": "Polygon",
           "properties": {
-            "st_nm": "Rest of North States",
+            "st_nm": "Jammu & Kashmir",
             "st_code": "01",
             "year": "2011_c"
           },
-          "id": "Rest of North States"
+          "id": "Jammu & Kashmir"
         },
         {
           "arcs": [
