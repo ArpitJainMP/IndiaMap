@@ -18409,337 +18409,336 @@
             "year": "2011_c"
           }
         },
-        {
-          "arcs": [[-282, 580, 581, -335, -285]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Adilabad",
-            "dt_code": "532",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[582, 583]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Hyderabad",
-            "dt_code": "536",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[584, 585, 586, 587, 588, 589]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Jagtial",
-            "dt_code": "737",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[590, 591, 592, 593, 594, 595]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Jangaon",
-            "dt_code": "752",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[596, 597, 598, 599, 600]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Mulugu",
-            "dt_code": "780",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2019"
-          }
-        },
-        {
-          "arcs": [[-437, 601, 602, -447]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Jogulamba Gadwal",
-            "dt_code": "744",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-338, 603, 604, 605, 606, 607, -382]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Kamareddy",
-            "dt_code": "736",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-586, 608, 609, 610, 611, 612]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Karimnagar",
-            "dt_code": "534",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-407, 613, 614, 615, -556]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Khammam",
-            "dt_code": "541",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-270, 616, 617, -581, -281]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Komaram Bheem",
-            "dt_code": "733",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-592, 618, -599, 619, -615, 620]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Mahabubabad",
-            "dt_code": "751",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[621, 622, 623, 624, 625]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Mahabubnagar",
-            "dt_code": "538",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-269, 626, 627, -590, 628, -617]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Mancherial",
-            "dt_code": "735",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-607, 629, 630, 631]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Medak",
-            "dt_code": "535",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-584, 632, 633, -631, 634, 635, 636]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Medchal Malkajgiri",
-            "dt_code": "742",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-428, -446, -449, 637, -625, 638, 639]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Nagarkurnool",
-            "dt_code": "746",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-429, -640, 640, 641, 642]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Nalgonda",
-            "dt_code": "539",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-336, -582, -618, -629, -589, 643]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Nirmal",
-            "dt_code": "734",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-337, -644, -588, 644, -604]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Nizamabad",
-            "dt_code": "533",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-585, -628, 645, -609]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Peddapalli",
-            "dt_code": "738",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-587, -613, 646, -605, -645]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Rajanna Sircilla",
-            "dt_code": "739",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-583, -637, 647, -641, -639, -624, 648, 649, -633]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Ranga Reddy",
-            "dt_code": "537",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-383, -608, -632, -634, -650, 650, -395, 651, -393]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Sangareddy",
-            "dt_code": "740",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-595, 652, -635, -630, -606, -647, -612, 653]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Siddipet",
-            "dt_code": "741",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-406, -430, -643, 654, -593, -621, -614]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Suryapet",
-            "dt_code": "748",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-396, -651, -649, -623, 655]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Vikarabad",
-            "dt_code": "743",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-448, -603, 656, -626, -638]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Wanaparthy",
-            "dt_code": "745",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-591, 657, 658, -600, -619]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Warangal Rural",
-            "dt_code": "749",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-596, -654, -611, 659, -658]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Warangal Urban",
-            "dt_code": "540",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
-          "arcs": [[-594, -655, -642, -648, -636, -653]],
-          "type": "Polygon",
-          "properties": {
-            "district": "Yadadri Bhuvanagiri",
-            "dt_code": "747",
-            "st_nm": "Andhra Pradesh",
-            "st_code": "36",
-            "year": "2016_c"
-          }
-        },
-        {
+{
+  "arcs": [[-282, 580, 581, -335, -285]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Adilabad",
+    "dt_code": "532",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[582, 583]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Hyderabad",
+    "dt_code": "536",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[584, 585, 586, 587, 588, 589]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Jagtial",
+    "dt_code": "737",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[590, 591, 592, 593, 594, 595]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Jangaon",
+    "dt_code": "752",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[596, 597, 598, 599, 600]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Mulugu",
+    "dt_code": "780",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2019"
+  }
+},
+{
+  "arcs": [[-437, 601, 602, -447]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Jogulamba Gadwal",
+    "dt_code": "744",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-338, 603, 604, 605, 606, 607, -382]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Kamareddy",
+    "dt_code": "736",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-586, 608, 609, 610, 611, 612]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Karimnagar",
+    "dt_code": "534",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-407, 613, 614, 615, -556]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Khammam",
+    "dt_code": "541",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-270, 616, 617, -581, -281]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Komaram Bheem",
+    "dt_code": "733",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-592, 618, -599, 619, -615, 620]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Mahabubabad",
+    "dt_code": "751",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[621, 622, 623, 624, 625]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Mahabubnagar",
+    "dt_code": "538",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-269, 626, 627, -590, 628, -617]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Mancherial",
+    "dt_code": "735",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-607, 629, 630, 631]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Medak",
+    "dt_code": "535",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-584, 632, 633, -631, 634, 635, 636]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Medchal Malkajgiri",
+    "dt_code": "742",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-428, -446, -449, 637, -625, 638, 639]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Nagarkurnool",
+    "dt_code": "746",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-429, -640, 640, 641, 642]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Nalgonda",
+    "dt_code": "539",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-336, -582, -618, -629, -589, 643]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Nirmal",
+    "dt_code": "734",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-337, -644, -588, 644, -604]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Nizamabad",
+    "dt_code": "533",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-585, -628, 645, -609]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Peddapalli",
+    "dt_code": "738",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-587, -613, 646, -605, -645]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Rajanna Sircilla",
+    "dt_code": "739",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-583, -637, 647, -641, -639, -624, 648, 649, -633]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Ranga Reddy",
+    "dt_code": "537",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-383, -608, -632, -634, -650, 650, -395, 651, -393]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Sangareddy",
+    "dt_code": "740",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-595, 652, -635, -630, -606, -647, -612, 653]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Siddipet",
+    "dt_code": "741",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-406, -430, -643, 654, -593, -621, -614]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Suryapet",
+    "dt_code": "748",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-396, -651, -649, -623, 655]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Vikarabad",
+    "dt_code": "743",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-448, -603, 656, -626, -638]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Wanaparthy",
+    "dt_code": "745",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-591, 657, 658, -600, -619]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Warangal Rural",
+    "dt_code": "749",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-596, -654, -611, 659, -658]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Warangal Urban",
+    "dt_code": "540",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+},
+{
+  "arcs": [[-594, -655, -642, -648, -636, -653]],
+  "type": "Polygon",
+  "properties": {
+    "district": "Yadadri Bhuvanagiri",
+    "dt_code": "747",
+    "st_nm": "Telangana",
+    "st_code": "36",
+    "year": "2016_c"
+  }
+}        {
           "arcs": [[[660]], [[661]], [[662, 663, 664, 665]], [[666]], [[667]]],
           "type": "MultiPolygon",
           "properties": {
@@ -24908,8 +24907,8 @@
             ]
           ],
           "type": "Polygon",
-          "properties": {"st_nm": "Andhra Pradesh", "st_code": "36"},
-          "id": "Andhra Pradesh"
+          "properties": {"st_nm": "Telangana", "st_code": "36"},
+          "id": "Telangana"
         },
         {
           "arcs": [
